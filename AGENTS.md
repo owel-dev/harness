@@ -1,4 +1,6 @@
-# AGENTS.md
+# 공통 작업 지침
+
+Codex와 Claude Code가 함께 읽는 공통 작업 지침입니다. CLAUDE.md는 이 파일을 import해서 같은 내용을 읽습니다.
 
 ## 답변 규칙
 
